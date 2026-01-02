@@ -49,4 +49,4 @@ The calculator consists of three main components:
 To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/rifat-mukul/calculator.git
