@@ -50,3 +50,6 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/rifat-mukul/calculator.git
+## Website Link
+```bash
+   https://calculator1572.netlify.app/
